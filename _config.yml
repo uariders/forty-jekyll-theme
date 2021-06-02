@@ -2,14 +2,14 @@
 title: URDS
 subtitle: MC
 email: info@uariders.com
-description: Another MC <br /> for Adventure addicted.
+description: This is a self-management <br /> motorcycle club.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: KIEV
+state: KI
+zip_code: 02002
 country: Ukraine
 phone: (716) 555-5555
 
@@ -41,4 +41,5 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
+- elements2.md
