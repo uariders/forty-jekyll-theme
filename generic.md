@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get a URDS Membership?
+title: Registration
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
