@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: register
 title: Registration
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+#image: assets/images/pic11.jpg
+image: null
 nav-menu: true
 ---
 
@@ -13,3 +14,4 @@ First, you need to accept what this is not another motorcycle club with a strict
 ## How to be a part of URDS? 
 
 First, you need to complete the registration process. After that, 5 active members must approve you.
+
