@@ -20,7 +20,7 @@ First, you need to complete the registration process. After that, 5 active membe
 <form method="post" action="https://formspree.io/f/xeqvgplq">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Full Name" />
 		</div>
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
@@ -38,6 +38,7 @@ First, you need to complete the registration process. After that, 5 active membe
 			</div>
 		</div>
 		<!-- Break -->
+        <b>Riding expirince</b>
 		<div class="4u 12u$(small)">
 			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
