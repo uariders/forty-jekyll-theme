@@ -1,7 +1,7 @@
 ---
 layout: register
-title: Registration
-description: Lorem ipsum dolor est
+title: Membership
+description: Come to dark side, we have a cookies!
 #image: assets/images/pic11.jpg
 image: null
 nav-menu: true

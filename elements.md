@@ -1,7 +1,8 @@
 ---
 layout: page
-title: RULES
-image: assets/images/pic01.jpg
+title: WHO WE ARE?
+#image: assets/images/pic01.jpg
+image: null
 nav-menu: true
 ---
 
