@@ -1,8 +1,8 @@
 ---
-layout: page
-title: WHO WE ARE?
-#image: assets/images/pic01.jpg
-image: null
+title: Community Rules
+layout: landing
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+image: assets/images/banner.jpg
 nav-menu: true
 ---
 

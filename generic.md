@@ -1,21 +1,11 @@
 ---
 layout: register
-title: Membership
-description: Come to dark side, we have a cookies!
+title: Register
+description: Easiest way to be a part of community
 #image: assets/images/pic11.jpg
 image: null
 nav-menu: true
 ---
-
-## How to get a URDS Membership?
-
-First, you need to accept what this is not another motorcycle club with a strict hierarchy. This is a self-management motorcycle club with rules what keep everyone and you must prove it, to be a part of this society.
-
-## How to be a part of URDS? 
-
-First, you need to complete the registration process. After that, 5 active members must approve you.
-
-
 
 <form method="post" action="https://formspree.io/f/xeqvgplq">
 	<div class="row uniform">

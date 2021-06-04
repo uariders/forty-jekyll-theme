@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to UARIDERS MC'
+landing-title: 'Greetings Rider!'
 description: null
 image: null
 author: null
